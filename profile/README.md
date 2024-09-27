@@ -9,6 +9,7 @@ We strive to create an open space where the network most involved creators can c
   - [PORTAL](https://dablock.com/)
   - [DOT Brain](https://docs.google.com/spreadsheets/d/1GHrFFpaIB7FDRK1eIQjRdnItqwJXtBT6viv7ZqV-QvE/edit?usp=sharing)
   - [Roadmap](https://github.com/orgs/DaBlockDAO/projects/1/)
+  - [LV Odyssey](https://docs.google.com/document/d/17bN2-Xesp2Yv9qIbyvVrk7UaB5Jh_rC_OFjhZ0cuNTc/edit?usp=sharing)
 - **Socials**
   - [X](https://x.com/dablockdao/)
 
