@@ -1,11 +1,11 @@
-#DaBlockDAO Organization
+# DaBlockDAO
 
 ## Mission
 DaBlockDAO is a decentralized organization dedicated to supporting and advancing the Polkadot ecosystem through education, community engagement, and development. Our mission is to empower blockchain enthusiasts, developers, and stakeholders with high-quality, informative content, tools, and resources that help them navigate and contribute to the growing Polkadot ecosystem.
 
 We strive to create an open, decentralized space where the community can collaborate, innovate, and shape the future of decentralized web technology, promoting transparency, security, and inclusivity across the blockchain landscape.
 
-## DaBlock Portal
+## dablock.com Portal
 The DaBlock portal serves as the premier informational hub for the Polkadot ecosystem. Our platform is committed to delivering in-depth, up-to-date content on everything related to Polkadot, including:
 
 - Educational Resources: Comprehensive guides and tutorials on Polkadot, parachains, and blockchain technology.
