@@ -5,6 +5,12 @@ DaBlockDAO is a decentralized organization dedicated to supporting and advancing
 
 We strive to create an open, decentralized space where the community can collaborate, innovate, and shape the future of decentralized web technology, promoting transparency, security, and inclusivity across the blockchain landscape.
 
+- **Links**
+  - [PORTAL](https://dablock.com/)
+  - [Roadmap](https://github.com/orgs/DaBlockDAO/projects/1/)
+- **Socials**
+  - [X](https://x.com/dablockdao/)
+
 ## dablock.com Portal
 The DaBlock portal serves as the premier informational hub for the Polkadot ecosystem. Our platform is committed to delivering in-depth, up-to-date content on everything related to Polkadot, including:
 
