@@ -1,7 +1,7 @@
-# DaBlockDAO
+# DaBlock
 
 ## Mission
-**DaBlockDAO is dedicated to supporting and advancing the Polkadot ecosystem through education, community engagement, and development**. Our mission is to empower blockchain enthusiasts, developers, and stakeholders with high-quality, informative content, tools, and resources that help them navigate and contribute to the growing Polkadot ecosystem.
+**DaBlock is dedicated to supporting and advancing the Polkadot ecosystem through education, community engagement, and development**. Our mission is to empower blockchain enthusiasts, developers, and stakeholders with high-quality, informative content, tools, and resources that help them navigate and contribute to the growing Polkadot ecosystem.
 
 We strive to create an open space where the network most involved creators can collaborate and help to define the current and future Polkadot ecosystem landscape.
 
