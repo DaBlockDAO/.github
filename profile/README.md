@@ -7,6 +7,7 @@ We strive to create an open space where the network most involved creators can c
 
 - **Links**
   - [PORTAL](https://dablock.com/)
+  - [DOT Brain](https://docs.google.com/spreadsheets/d/1GHrFFpaIB7FDRK1eIQjRdnItqwJXtBT6viv7ZqV-QvE/edit?usp=sharing)
   - [Roadmap](https://github.com/orgs/DaBlockDAO/projects/1/)
 - **Socials**
   - [X](https://x.com/dablockdao/)
